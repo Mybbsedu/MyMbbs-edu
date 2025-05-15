@@ -15,18 +15,18 @@
     header {
       background: #333;
       color: #fff;
-      padding: 10px 20px;
+      padding: 100px 200px;
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
     .logo {
-      height: 50px;
+      height: 80px;
     }
     nav ul {
       list-style: none;
       display: flex;
-      gap: 15px;
+      gap: 20px;
     }
     nav a {
       color: #fff;
@@ -71,7 +71,7 @@
     }
     .social-links a {
       margin-right: 15px;
-      text-decoration: none;
+      text-decoration: highlight;
       color: #333;
     }
     footer {
@@ -98,10 +98,12 @@
     <p>Your trusted partner for Your future and International Studies .</p>
   </section>  <!-- About Section -->  <section id="about">
     <h2>About Us</h2>
-    <p>[At MY MBBS EDU, we offer students a chance to study MBBS abroad at a very affordable price, with high-quality education and a lively experience during their stay abroad as international students. We at MY MBBS EDU help you choose the right college for your kids; after all, every kid deserves to be a doctor and achieve their dreams of serving humanity and their country.
+    <p>At MY MBBS EDU, we offer students a chance to study MBBS abroad at a very affordable price, with high-quality education and a lively experience during their stay abroad as international students. We at MY MBBS EDU help you choose the right college for your kids; after all, every kid deserves to be a doctor and achieve their dreams of serving humanity and their country.
 Contacts Us on WHATSAPP :
+      
 Arun : 9840074544 
-Rachchan Deep M : 9110609288) </p>
+
+Rachchan Deep M : 9110609288 </p>
   </section>  <!-- Gallery Section -->  <section id="gallery">
     <h2>Gallery</h2>
     <div class="gallery">
