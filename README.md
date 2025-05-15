@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Business</title>
+  <title>MY MBBS EDU</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -85,7 +85,7 @@
 <body>
   <!-- Header -->
   <header>
-    <img src="logo.png" alt="Your Business Logo" class="logo" />
+    <img src="logo.png" alt="MY MBBS EDU" class="logo" />
     <nav>
       <ul>
         <li><a href="#home">Home</a></li>
@@ -94,21 +94,25 @@
       </ul>
     </nav>
   </header>  <!-- Home Section -->  <section id="home">
-    <h1>Welcome to Our Business</h1>
-    <p>Your trusted partner for [your business description].</p>
+    <h1>Welcome to MY MBBS EDU</h1>
+    <p>Your trusted partner for Your future and International Studies .</p>
   </section>  <!-- About Section -->  <section id="about">
     <h2>About Us</h2>
-    <p>[Insert description about your business, mission, and values here]</p>
+    <p>[At MY MBBS EDU, we offer students a chance to study MBBS abroad at a very affordable price, with high-quality education and a lively experience during their stay abroad as international students. We at MY MBBS EDU help you choose the right college for your kids; after all, every kid deserves to be a doctor and achieve their dreams of serving humanity and their country.
+Contacts Us on WHATSAPP :
+Arun : 9840074544 
+Rachchan Deep M : 9110609288) </p>
   </section>  <!-- Gallery Section -->  <section id="gallery">
     <h2>Gallery</h2>
     <div class="gallery">
       <img src="image1.jpg" alt="Gallery Image 1" />
       <img src="image2.jpg" alt="Gallery Image 2" />
       <img src="image3.jpg" alt="Gallery Image 3" />
+      <img src="image4.jpg" alt="Gallery Image 4" />
     </div>
   </section>  <!-- Contact Section -->  <section id="contact">
     <h2>Contact Us</h2>
-    <form action="mailto:your@email.com" method="post" enctype="text/plain">
+    <form action="mailto:mymbbsedu@gmail.com" method="post" enctype="text/plain">
       <label for="name">Name:</label>
       <input type="text" id="name" name="name" required /><label for="email">Email:</label>
   <input type="email" id="email" name="email" required />
@@ -119,13 +123,12 @@
   <button type="submit">Send</button>
 </form>
 <div class="social-links">
-  <a href="https://facebook.com" target="_blank">Facebook</a>
-  <a href="https://instagram.com" target="_blank">Instagram</a>
-  <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+  <a href="https://www.facebook.com/share/1Pbui24BWD/" target="_blank">Facebook</a>
+  <a href="https://www.instagram.com/mymbbsedu?igsh=emwxOXVtNGtjcWs3" target="_blank">Instagram</a>
 </div>
 
   </section>  <!-- Footer -->  <footer>
-    <p>&copy; 2025 Your Business Name. All rights reserved.</p>
+    <p>&copy; 2025 MY MBBS EDU. All rights reserved.</p>
   </footer>
 </body>
 </html>
