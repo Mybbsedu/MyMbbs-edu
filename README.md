@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=11.0" />
   <title>MY MBBS EDU</title>
   <style>
     body {
@@ -98,16 +98,12 @@
     <p>Your trusted partner for Your future and International Studies .</p>
   </section>  <!-- About Section -->  <section id="about">
     <h2>About Us</h2>
-    <p>At MY MBBS EDU, we offer students a chance to study MBBS abroad at a very affordable price, with high-quality education and a lively experience during their stay abroad as international students. We at MY MBBS EDU help you choose the right college for your kids; after all, every kid deserves to be a doctor and achieve their dreams of serving humanity and their country.
-Contacts Us on WHATSAPP :
-      
-Arun : 9840074544 
-
-Rachchan Deep M : 9110609288 </p>
+    <p>At MY MBBS EDU, we offer students a chance to study MBBS abroad at a very affordable price, with high-quality education and a lively experience during their stay abroad as international students. We at MY MBBS EDU help you choose the right college for your kids; after all, every kid deserves to be a doctor and achieve their dreams of serving humanity and their country. </p>
   </section>  <!-- Gallery Section -->  <section id="gallery">
     <h2>Gallery</h2>
     <div class="gallery">
-      <img src="image1.jpg" alt="Gallery Image 1" />
+      <img src="image1.jpg" alt="Gallery Image 1 ![images-Aspose Words 2e4aa3e3-aadb-45d4-9461-07ad375a7c00 001](https://github.com/user-attachments/assets/e6d70325-1691-4b73-b76d-8cce9a866bcc)
+" />
       <img src="image2.jpg" alt="Gallery Image 2" />
       <img src="image3.jpg" alt="Gallery Image 3" />
       <img src="image4.jpg" alt="Gallery Image 4" />
@@ -115,18 +111,22 @@ Rachchan Deep M : 9110609288 </p>
   </section>  <!-- Contact Section -->  <section id="contact">
     <h2>Contact Us</h2>
     <form action="mailto:mymbbsedu@gmail.com" method="post" enctype="text/plain">
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required /><label for="email">Email:</label>
+      <label for="Arun : 9840074544 - Tamil, English ">Arun : 9840074544 - Tamil, English (WhatsApp Only) >
+                                    <label for="name">Rachchan Deep M : 9110609288 - Hindi, English & Kannada (WhatsApp Only) >
+      <input type="text" id="name" name="name" required />
+                                        <label for="email">Gmail : mymbbsedu@gmail.com:</label>
   <input type="email" id="email" name="email" required />
 
   <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
+  
+  Student Name, Parent Name, Choice of College, WhatsApp Number
 
   <button type="submit">Send</button>
 </form>
 <div class="social-links">
   <a href="https://www.facebook.com/share/1Pbui24BWD/" target="_blank">Facebook</a>
   <a href="https://www.instagram.com/mymbbsedu?igsh=emwxOXVtNGtjcWs3" target="_blank">Instagram</a>
+    <a href="https://www.mymbbsedu@gmail.com" target="_blank" >Gmail</a>
 </div>
 
   </section>  <!-- Footer -->  <footer>
