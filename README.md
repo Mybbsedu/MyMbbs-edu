@@ -110,18 +110,27 @@
     </div>
   </section>  <!-- Contact Section -->  <section id="contact">
     <h2>Contact Us</h2>
-    <form action="mailto:mymbbsedu@gmail.com" method="post" enctype="text/plain">
-      <label for="Arun : 9840074544 - Tamil, English ">Arun : 9840074544 - Tamil, English (WhatsApp Only) >
-                                    <label for="name">Rachchan Deep M : 9110609288 - Hindi, English & Kannada (WhatsApp Only) >
-      <input type="text" id="name" name="name" required />
-                                        <label for="email">Gmail : mymbbsedu@gmail.com:</label>
-  <input type="email" id="email" name="email" required />
+    <form action="mailto:mymbbsedu@gmail.com" method="post" 
+      enctype="text/plain">
+     <label for = "WhatsApp"> Call Us on WhatsApp
+      
+  <label for="Arun : 9840074544 - Tamil, English ">1) Arun : 9840074544 - Tamil, English 
 
-  <label for="message">Message:</label>
+   
+  <label for="name">2) Rachchan Deep M : 9110609288 - Hindi, English & Kannada
+
+
+   <input type="text" id="name" name="name" required />
+                                        <label for="email">Gmail : mymbbsedu@gmail.com
+                                        <input type="email" id="email" name="email" required />
   
-  Student Name, Parent Name, Choice of College, WhatsApp Number
 
-  <button type="submit">Send</button>
+
+  <label for="message">Details:</label>
+  Student Name, Parent Name, Choice of College, WhatsApp Number
+  
+<button type="submit">Send</button>
+
 </form>
 <div class="social-links">
   <a href="https://www.facebook.com/share/1Pbui24BWD/" target="_blank">Facebook</a>
